@@ -1,8 +1,8 @@
-                                          # JS-Fibonacci-sequence [Class-Work]
+                                         # JS-Fibonacci-sequence [Class-Work]
 										  
 										  
 
-                                                 ## HTML Expalnation
+                                               ## HTML Expalnation
 
 
 This is a block of HTML code that defines a web page layout with a form for generating a Fibonacci sequence. 
